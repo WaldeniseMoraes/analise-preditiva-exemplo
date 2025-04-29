@@ -43,3 +43,12 @@ hist(salarios,
      col = "lightgreen",
      border = "black")
 
+
+---
+
+**Resultados Esperados**:
+- **Boxplot**: A caixa representará a distribuição dos dados, com a mediana e os quartis. Os bigodes irão mostrar os valores típicos e qualquer ponto fora deles será considerado um outlier.
+- **Histograma**: As barras indicarão em quais faixas de salários a maioria dos dados se encontra.
+
+---
+
