@@ -63,4 +63,10 @@ hist(
   col = "lightgreen",
   border = "black"
 )
+```
+## 👩‍💻 Desenvolvedora
+
+**Waldenise de Oliveira Moraes**  
+Engenheira de Produção | Engenheira de Segurança do Trabalho e Ambiental  
+Especialista em Ciência de Dados e Inteligência Artificial
 
