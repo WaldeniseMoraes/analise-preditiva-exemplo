@@ -64,7 +64,7 @@ hist(
   border = "black"
 )
 ```
-## 👩‍💻 Desenvolvedora
+## 👩‍💻 Desenvolvido por:
 
 **Waldenise de Oliveira Moraes**  
 Engenheira de Produção | Engenheira de Segurança do Trabalho e Ambiental  
